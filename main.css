@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+  }
+
+  .button {
+      background-color: 2d3d49;
+      display: inline-block;
+      height: 60px;
+      width: 90px;
+      color: greenyellow;
+      text-align: center;
+      border: 2px;
+      border-style: solid;
+      border-color: brown;
+      font-size: 20px;
+    
+  }
+
+  #frame {
+      position: relative;
+      width: 400px;
+      top: 10%;
+      left: 20%;
+  }
+
+  #display {
+      display: inline-block;
+      height: 60px;
+      width: 372px;
+      font-size: 20px;
+      background-color: black;
+      color: greenyellow;
+  }
